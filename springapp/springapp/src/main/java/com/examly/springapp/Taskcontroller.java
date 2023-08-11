@@ -1,5 +1,5 @@
 package com.examly.springapp;
 
-public class Task repository {
+public class Taskcontroller {
     
 }
